@@ -3,7 +3,7 @@ Title: Home
 Description: This is my index page.
 ---
 
-# Om mig
+# Om mig - Test2
 
 Hej!
 Jag heter Henrik och efter 10 år på bank läser jag nu på programmet Webbprogramering 120hp.
