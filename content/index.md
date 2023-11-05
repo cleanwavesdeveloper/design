@@ -10,7 +10,7 @@ Jag heter Henrik och efter 10 år på bank läser jag nu på programmet Webbprog
 
 Min passion är surfing och jag sitter just nu i Indonesien och skriver detta. Här är vädret varmt och skönt och vågorna fantastiska.
 
-![alt text](/assets/img/costa_rica.jpeg "Jag i djungeln i Costa Rica")
+![Img visas inte: Jag i djungeln i Costa Rica](/assets/img/costa_rica.jpeg "Jag i djungeln i Costa Rica")
 
 Innehåll på sidan innan började
 
