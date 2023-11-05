@@ -3,7 +3,7 @@ Title: Home
 Description: This is my index page.
 ---
 
-# Om mig - Test2
+# Om mig
 
 Hej!
 Jag heter Henrik och efter 10 år på bank läser jag nu på programmet Webbprogramering 120hp.
@@ -13,6 +13,7 @@ Min passion är surfing och jag sitter just nu i Indonesien och skriver detta. H
 ![Img visas inte: Jag i djungeln i Costa Rica](/assets/img/costa_rica.jpeg "Jag i djungeln i Costa Rica")
 
 Innehåll på sidan innan började
+-------------------------------
 
 Home page
 ==========================

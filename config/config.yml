@@ -1,7 +1,7 @@
 ##
 # Basic
 #
-site_title: Design v3               # The title of your website
+site_title: Design HT2023 - Henrik Rinaldo               # The title of your website
 base_url: ~                         # Pico will try to guess its base URL, if this fails, override it here;
                                     #     Example: https://example.com/pico/
 rewrite_url: ~                      # A boolean (true or false) indicating whether URL rewriting is forced
@@ -37,7 +37,7 @@ content_ext: .md                    # The file extension of your Markdown files
 content_config:                     # Parsedown Markdown parser config
     extra: true                     # Use the Parsedown Extra parser to support extended markup;
                                     #     See https://michelf.ca/projects/php-markdown/extra/ for more info
-    breaks: false                   # A boolean indicating whether breaks in the markup should be reflected in the
+    breaks: true                   # A boolean indicating whether breaks in the markup should be reflected in the
                                     #     parsed contents of the page
     escape: false                   # Escape HTML markup in your content files; don't confuse this with some sort of
                                     #     safe mode, enabling this doesn't allow you to process untrusted user input!
