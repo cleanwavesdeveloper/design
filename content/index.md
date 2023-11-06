@@ -10,14 +10,7 @@ Jag heter Henrik och efter 10 år på bank läser jag nu på programmet Webbprog
 
 Min passion är surfing och jag sitter just nu i Indonesien och skriver detta. Här är vädret varmt och skönt och vågorna fantastiska.
 
-![Img visas inte: Jag i djungeln i Costa Rica](/assets/img/costa_rica.jpeg "Jag i djungeln i Costa Rica")
+![me](%assets_url%/img/costa_rica.jpeg) {.costa}
 
-Innehåll på sidan innan började
--------------------------------
 
-Home page
-==========================
 
-The source for this page is in `content/index.md`.
-
-This is a sample home page written in markdown with some frontmatter defined.
