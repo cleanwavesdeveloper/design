@@ -3,9 +3,7 @@ Title: About
 Description: About the techniques used.
 ---
 
-# About the techniques used
-
-### The techniques used in this course are:
+# About the techniques used in this course
 
 #### HTML:
 HTML, or HyperText Markup Language, is the standard markup language for creating web pages and web applications. It utilizes tags to define and structure content on a webpage. HTML documents consist of nested elements, each with specific roles like headings, paragraphs, lists, links, and more. Tags indicate the beginning and end of elements, forming a hierarchical structure. Attributes provide additional information about elements. HTML is essential for building the foundation of a webpage, enabling the presentation and organization of text, images, forms, and multimedia. Browsers interpret HTML to render the visual representation of web content.

@@ -19,7 +19,7 @@ body {
 * {
     color: $font-color;
     font-family: 'Roboto', sans-serif;
-    border: 1px solid #000;
+    //border: 1px solid #000;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -28,25 +28,61 @@ h1, h2, h3, h4, h5, h6 {
 
 a{
     text-decoration: none; 
+    padding: 0;
 }
 
 p{
-    max-width: 40%;
+    //max-width: 40%;
 }
 
 .costa{
-    width: 10%;
-    align-items: center;
-    text-align: center;
-    padding: 3em;
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
 
 .social{
     text-decoration: none;
+    padding: 1rem;
+}
+
+.header{
+    text-align: center;  
+}
+
+.site-header{
+    width: 60%;
+    display: inline-block;
+    text-align: left;
+    margin-top: 2rem;
+}
+
+.logo{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.title{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.nav{
+    width: 60%;
+    display: inline-block;
+    text-align: left;
 }
 
 .main{
-    //align-items: center;
+    text-align: center;
+}
+
+.myContent{
+    width: 60%;
+    display: inline-block;
+    text-align: left;
 }
 
 .footer{
