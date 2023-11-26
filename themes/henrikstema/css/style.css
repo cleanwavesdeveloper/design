@@ -1,5 +1,5 @@
 body {
-    background-color: lightblue;
+    background-color: lightseagreen;
 }
 
 * {
@@ -13,12 +13,14 @@ ol, ul {
     padding-left: 1.5em;
 }
 
+
 .hidden {
     display: none !important;
 }
 
 html, body {
     height: 100%;
+    font-size: 100%;
 }
 
 /* Placement */
@@ -26,10 +28,19 @@ html, body {
 body {
     display: flex;
     flex-direction: column;
+    align-items: center;
+    text-align: center;
 }
 
+
+
+
+
 .main {
-    flex: 1 0 auto;
+    flex: 0 1 auto;
+    /* justify-content: center; */
+    /* padding: 10em;
+    margin: 10em; */
 }
 
 .header, .footer {
@@ -90,7 +101,7 @@ body {
 body {
     font-family: sans-serif;
     line-height: 1.5rem;
-    color: #444;
+    color: #333;
 }
 
 p, td, th, li, dd {
@@ -99,9 +110,17 @@ p, td, th, li, dd {
     word-wrap: break-word;
 }
 
+p {
+    font-size: 1em;
+}
+
 h1, h2, h3, h4, h5, h6 {
     margin-bottom: 0.6em;
     font-weight: bold;
+}
+
+h1{
+    text-align: center;
 }
 
 img {
